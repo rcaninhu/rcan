@@ -1,11 +1,11 @@
 {
-    "name": "board",
-    "short_name": "board",
+    "name": "rCan's Blog",
+    "short_name": "rCan's Blog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "rCan's Blog",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
